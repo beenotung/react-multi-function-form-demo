@@ -1,0 +1,23 @@
+.function--list {
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  display: flex;
+}
+
+.function--item {
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.form--list {
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+}
