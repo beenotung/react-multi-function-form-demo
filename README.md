@@ -1,3 +1,7 @@
+# react-multi-function-form-demo
+
+demo how to build multi-function (multi-task) form in react with useRef() and task array
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
